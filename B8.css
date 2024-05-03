@@ -1,0 +1,38 @@
+.header,.navigation{
+    width: 700px;
+    height: 60px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section{
+    display: flex;
+    width: 700px;
+    height: 400px;
+}
+.menu2,.article{
+    width: 100px;
+    height: 400px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    width: 500px;
+    height: 400px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.cart{
+    width: 100px;
+    height: 60px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

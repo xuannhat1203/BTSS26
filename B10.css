@@ -1,0 +1,46 @@
+nav{
+    display: flex;
+    width: 700px;
+    height: 50px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.inputValue{
+    display: flex;
+    gap: 10px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inandbtn{
+    display: flex;
+    width: 700px;
+    height: 60px;
+    justify-content: space-around;
+    align-items: center;
+}
+.jobName{
+    width: 580px;
+    height: 50px;
+}
+.add{
+    width: 100px;
+    height: 50px;
+}
+.todoList{
+    width: 700px;
+}
+.btn3{
+    border: none;
+    width:45px;
+    height: 45px;
+}
+.material-symbols-outlined{
+    position: relative;
+    right: 8px;
+    top: 1px;
+}
